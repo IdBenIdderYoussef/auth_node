@@ -1,0 +1,5 @@
+module.exports = {
+    ROLE_FARMER : "ROLE_FARMER",
+    ROLE_PROVIDER : "ROLE_PROVIDER",
+    ROLE_CUSTOMER : "ROLE_CUSTOMER",
+}

@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb://127.0.0.1:27017/agriedge",
+    "jwtSecret": "agriedge_secret_value",
+    "jwtSecretMail": "agriedge_secret_value_mail",
+    "MAIL_USER": "agriedge_secret_value",
+    "MAIL_PASS": "agriedge_secret_value"
+}
